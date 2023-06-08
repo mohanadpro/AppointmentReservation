@@ -1,0 +1,7 @@
+.div-height{
+    height: 200px;
+}
+.info-list li{
+    /* list-style: none; */
+    list-style-type: decimal;
+}

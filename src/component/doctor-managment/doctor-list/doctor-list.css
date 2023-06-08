@@ -1,0 +1,17 @@
+.doc-image{
+    width: 100px;
+    height: 100px;
+    border-radius: 50%;
+}
+
+.btn-add{
+    font-size:'15px';
+    height :'40px'
+}
+
+.doctors{
+    margin: 50px 0px 0px 50px;
+    max-height: 500px;
+    overflow-y:auto; 
+    overflow-x: hidden;
+}
