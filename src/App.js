@@ -1,7 +1,7 @@
 
 import ReserveAppointment from './component/reserve-appointment/reserve-appointment';
 import DoctorList from './component/doctor-managment/doctor-list/doctor-list';
-import { BrowserRouter, Route, Routes } from 'react-router-dom';
+import { Route, Routes } from 'react-router-dom';
 import Login from './component/user-managment/login/login';
 import PatientList from './component/patient-managment/patient-list/patient-list';
 import Sidebar from './component/sidebar/sidebar';
